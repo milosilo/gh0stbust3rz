@@ -1,57 +1,27 @@
 # Gh0stbust3rz: The Game
 
-## About
-Welcome to **Gh0stbust3rz: The Game**, an exhilarating and interactive experience that not only teaches you essential tech skills but also guides you through building a Command and Control (C2) system, Netino C2, one piece at a time!
+## Introduction
+**Gh0stbust3rz: The Game** is not just a game; it's a journey. A journey where you imbibe critical tech skills, understand the intricacies of network systems, and, most importantly, become a certified Gh0stbust3r! What sets this game apart is its focus on a hands-on approach, featuring in-game real-world code examples that you will actually use to build out a Command and Control (C2) system.
 
----
+## A Detailed Look at the Workshops
 
-## Workshops
-The game consists of several workshops designed to equip you with the skills needed to become a Gh0stbust3r and build your own C2:
+### Server Setup Workshop
+Begin your journey by diving deep into the world of servers. Learn how to set up and secure servers, understanding key concepts like IP addresses and ports. The game features real-world code examples to help you grasp the essentials.
 
-1. **Server Setup Workshop**: 
-    - Learn how to set up a server and understand IPs and ports.
-    - Real Code Example: 
-    ```python
-    server_ip = '127.0.0.1'
-    server_port = 8080
-    ```
+### Network Navigation Workshop
+Take a virtual tour through the intricate maze that is network systems. Learn about network protocols, data packets, and routing as you navigate through this complex workshop.
 
-2. **Network Navigation Workshop**: 
-    - Understand network protocols and routing.
-    - Real Code Example: 
-    ```python
-    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-        s.connect((server_ip, server_port))
-    ```
+### Proton Pack Programming
+Equip yourself with the ultimate ghost-hunting tool by programming your own Proton Pack. Understand the engineering and coding behind this iconic device.
 
-3. **Proton Pack Programming**: 
-    - Code your proton pack for ghostbusting.
+### Red Team Exercises
+Test your skills and your C2 system in a simulated environment. Learn how to identify vulnerabilities, avoid detection, and navigate through a complex network infrastructure.
 
-4. **Red Team Exercises**: 
-    - Test your C2 against simulated network defenses.
+### Final Assembly Room
+The climax of your journey. Integrate all the components you've developed into a fully functional C2 system and prepare yourself for the ultimate ghost-hunting adventure.
 
-5. **Final Assembly Room**: 
-    - Assemble all the components you've gathered.
+## The Gh0stbust3rz Special
+Complete all the workshops to earn the ultimate accolade: a special ghost-hunting tool that will make you an official Gh0stbust3r. This unique tool will be an invaluable asset in your ghost-hunting endeavors.
 
----
-
-## Special Ghost-Hunting Tool
-Complete all the workshops and you'll receive a special ghost-hunting tool! This tool is your reward for becoming a Gh0stbust3r and will help you in all your future spectral encounters.
-
----
-
-## Creator
-Created by [milosilo](https://milosilo.com).  
-Follow on Twitter: [@milosilo_hacks](https://twitter.com/milosilo_hacks)
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE.md` file for details.
-
----
-
-## Acknowledgments
-- Ghostbusters franchise for the inspiration.
-- All the Gh0stbust3rz out there who 'ain't afraid of no ghost'!
-
+## Creator Information
+This masterpiece was created by milosilo. For more information, visit [milosilo.com](https://milosilo.com) or follow on Twitter [@milosilo_hacks](https://twitter.com/milosilo_hacks).
