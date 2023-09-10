@@ -1,5 +1,7 @@
 # Gh0stbust3rz: The Game
 
+![gh0stbust3rz](https://i.redd.it/t14dg4b5xcnb1.jpg)
+
 ## Introduction
 **Gh0stbust3rz: The Game** is not just a game; it's a journey. A journey where you imbibe critical tech skills, understand the intricacies of network systems, and, most importantly, become a certified Gh0stbust3r! What sets this game apart is its focus on a hands-on approach, featuring in-game real-world code examples that you will actually use to build out a Command and Control (C2) system.
 
